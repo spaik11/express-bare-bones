@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/spaik11/express-bare-bones#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "path": "^0.12.7",
     "uuid": "^3.4.0"
